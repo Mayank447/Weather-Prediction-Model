@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+*-working.ipynb
+.vscode/
+tf_wx_model/
+*.csv
+*.pkl
+*.pxi
+__pycache__
